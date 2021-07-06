@@ -7,6 +7,7 @@ body{
 #marquee-color{
     background-image: linear-gradient(blue, cyan);
     border-radius: 10px 10px 0px 0px;
+    color:black;
 }
 h1{
     font-size: 50px;
@@ -64,6 +65,18 @@ h2{
 .image-item{
     width: 99%;
     border-radius: 15px;
+}
+.bottom-section{
+    text-align: center;
+    margin: 7%;
+    width: auto;
+    height: 220px;
+    padding: 2px 3px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px rgba(0, 255, 255, 0.664);
+}
+#icon-size{
+    width: 25%;
 }
 footer{
     background-color:whitesmoke;
